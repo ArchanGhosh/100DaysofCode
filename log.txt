@@ -1,6 +1,7 @@
 01/08/2020 : Official Start of my 100DaysofCode Challenge.
 
-Day 1:
+Day 1: Worked on the Kaggle Dataset of LoL Diamond Ranking Classification
+       Completed the Entire Notebook and Published
 
 Day
 
