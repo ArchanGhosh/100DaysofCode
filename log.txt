@@ -3,7 +3,8 @@
 Day 1: Worked on the Kaggle Dataset of LoL Diamond Ranking Classification
        Completed the Entire Notebook and Published
 
-Day
+Day 2: Worked on Voice based Gender Classidication on Kaggle
+       Completed the entire model and data visualization and got a accuracy of 98%
 
 Day
 
