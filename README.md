@@ -19,5 +19,6 @@ Day 3: Worked on Pet Adoption problem on Hacker-earth (Failed miserably)
         Progress: 10+ hours of work went to nothing, only 37% accuracy
 
 Day 4: Worked on Super-Resolution Project and also made a [GAN training visualization](https://github.com/ArchanGhosh/GAN-/blob/master/GAN_Basics_in_Tf2_0.ipynb)
-                                                          [kaggle](https://www.kaggle.com/archanghosh/gan-basics-in-tf2-0)
+       [kaggle](https://www.kaggle.com/archanghosh/gan-basics-in-tf2-0)
+                                                          
         Progress: Completed a whole notebook for some Basic Introduction to GAN
