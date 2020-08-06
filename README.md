@@ -22,3 +22,7 @@ Day 4: Worked on Super-Resolution Project and also made a [GAN training visualiz
        [kaggle](https://www.kaggle.com/archanghosh/gan-basics-in-tf2-0)
                                                           
         Progress: Completed a whole notebook for some Basic Introduction to GAN
+        
+Day 5: Made a DC-GAN model for MNIST digit Creation. Both on Colab and Kaggle.
+
+        Progress: Completed entire model with visualization.
