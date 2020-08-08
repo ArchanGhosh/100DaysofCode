@@ -30,3 +30,7 @@ Day 5: Made a DC-GAN model for MNIST digit Creation. Both on Colab and Kaggle.
 Day 6: DC-GAN for Fashion MNIST. [Kaggle](https://www.kaggle.com/archanghosh/dcgan-on-fashion-mnist-in-tf2-0) [Github](https://github.com/ArchanGhosh/100DaysofCode/blob/master/DC_GAN_for_FASHION_MNIST.ipynb)
         
         Progress: Entire Notebook plus visualization and publishing.
+        
+Day 7: Worked on PyTorch Begineer level NN
+
+        Progess: 
