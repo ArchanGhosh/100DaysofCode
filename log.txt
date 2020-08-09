@@ -17,6 +17,6 @@ Day 6: DC-GAN For Fashion MNIST.
 
 Day 7: Worked on Begineer level PyTorch.
 
-Day
+Day 8: Participated in Goldman Sachs Hiring examination (minimum coding was involved but didn't get time)
 
 Day 
