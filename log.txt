@@ -20,3 +20,5 @@ Day 7: Worked on Begineer level PyTorch.
 Day 8: Participated in Goldman Sachs Hiring examination (minimum coding was involved but didn't get time)
 
 Day 9: Sandbox with Pokemon dataset 
+
+Day 10: Working on Coursera Specialization
