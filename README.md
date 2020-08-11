@@ -36,3 +36,7 @@ Day 7: Worked on PyTorch Begineer level NN
         Progess: 
         
 Day 8: Sat in Goldman Sachs Hiring examination, didn't get extra time.
+
+
+
+Day 9: Working on coursera Specialization
