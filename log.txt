@@ -26,3 +26,5 @@ Day 10: Working on Coursera Specialization
 Day 11: Time series problems
 
 Day 12: Started Working on Kaggle Halites
+
+Day 13: Submitted First Halite notebook and made it into leaderboards.
