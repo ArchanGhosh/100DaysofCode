@@ -32,3 +32,5 @@ Day 13: Submitted First Halite notebook and made it into leaderboards.
 Day 14: Worked on the Network design for Final Year Project
 
 Day 15: Deducing Loss function, PSNR & SSIM, and finalizing the entire Loss module
+
+Day 16: Made SRGAN on COIL100
