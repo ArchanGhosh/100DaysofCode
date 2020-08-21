@@ -34,3 +34,11 @@ Day 14: Worked on the Network design for Final Year Project
 Day 15: Deducing Loss function, PSNR & SSIM, and finalizing the entire Loss module
 
 Day 16: Made SRGAN on COIL100
+
+Day 17: Designing div2k network
+
+Day 18: same as yesterday
+
+Day 19: worked a little on old projects on kaggle
+
+Day 20: Starting GoDot
